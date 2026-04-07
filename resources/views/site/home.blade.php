@@ -30,14 +30,14 @@
               <div class="d-flex align-items-center gap-4" data-aos="fade-up" data-aos-delay="100"
                 data-aos-duration="1000">
                 <img src="../assets/images/svgs/primary-leaf2.svg" alt="" class="img-fluid animate-spin" style="width: 40px; height: 40px;">
-                <p class="mb-0 text-white fs-5 text-opacity-70">We create <span
-                    class="text-primary">high-performing</span> digital designs that elevate brands and enhance
-                  conversions.</p>
+                  <p class="mb-0 text-white fs-5 text-opacity-70">
+                      Desenvolvemos experiências digitais <span class="text-primary">inteligentes e eficazes</span> que destacam a sua marca e aumentam as conversões.
+                  </p>
               </div>
             </div>
           </div>
           <div class="d-flex align-items-end gap-3" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-            <h1 class="mb-0 fs-16 text-white lh-1">Studiova</h1>
+            <h1 class="mb-0 fs-16 text-white lh-1">Kivula</h1>
             <a href="javascript:void(0)" class="p-1 ps-7 bg-primary rounded-pill">
               <span class="bg-white round-52 rounded-circle d-flex align-items-center justify-content-center">
                 <iconify-icon icon="lucide:arrow-up-right" class="fs-8 text-dark"></iconify-icon>
@@ -66,10 +66,12 @@
               <div class="row">
                 <div class="col-xxl-8">
                   <div class="d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
-                    data-aos-duration="1000">
-                    <h2 class="mb-0">High quality web design solutions you can trust.</h2>
-                    <p class="fs-5 mb-0">When selecting a web design agency, it's essential to consider its reputation,
-                      experience, and the specific needs of your project.</p>
+                  data-aos-duration="1000">
+                      <h2 class="mb-0">Soluções digitais de alta qualidade para marcas que querem crescer.</h2>
+                      <p class="fs-5 mb-0">
+                          Na Kivula, combinamos criatividade, estratégia e tecnologia para desenvolver
+                          websites modernos, funcionais e alinhados com os objetivos do seu negócio.
+                      </p>
                   </div>
                 </div>
               </div>
@@ -78,26 +80,26 @@
                   <div class="d-flex flex-column gap-6 pt-9 border-top" data-aos="fade-up" data-aos-delay="200"
                     data-aos-duration="1000">
                     <h2 class="mb-0 fs-14"><span class="count" data-target="40">40</span>K+</h2>
-                    <p class="mb-0">People who have launched their websites</p>
+                    <p class="mb-0">Clientes que já deram vida aos seus projetos digitais</p>
                   </div>
                 </div>
                 <div class="col-md-6 col-lg-4 mb-7 mb-lg-0">
                   <div class="d-flex flex-column gap-6 pt-9 border-top" data-aos="fade-up" data-aos-delay="300"
                     data-aos-duration="1000">
                     <h2 class="mb-0 fs-14"><span class="count" data-target="238">238</span>+</h2>
-                    <p class="mb-0">Experienced professionals ready to assist</p>
+                    <p class="mb-0">Especialistas preparados para transformar ideias em soluções digitais</p>
                   </div>
                 </div>
                 <div class="col-md-6 col-lg-4 mb-7 mb-lg-0">
                   <div class="d-flex flex-column gap-6 pt-9 border-top" data-aos="fade-up" data-aos-delay="400"
                     data-aos-duration="1000">
                     <h2 class="mb-0 fs-14"><span class="count" data-target="3">3</span>M+</h2>
-                    <p class="mb-0">Support through messages and live consultations</p>
+                    <p class="mb-0">Acompanhamento personalizado via mensagens e consultas em tempo real</p>
                   </div>
                 </div>
               </div>
               <a href="about-us.html" class="btn" data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
-                <span class="btn-text">Who we are</span>
+                <span class="btn-text">Quem somos</span>
                 <iconify-icon icon="lucide:arrow-up-right"
                   class="btn-icon bg-white text-dark round-52 rounded-circle hstack justify-content-center fs-7 shadow-sm"></iconify-icon>
               </a>
